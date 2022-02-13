@@ -12,7 +12,7 @@
 ### 2022.02.13 ~ 2022.02.19
 |번호|문제|레벨|링크|
 |---|---------|----|---------------------|
-|문제 1|N으로표현|lvel 3|https://programmers.co.kr/learn/courses/30/lessons/42895|
+|문제 1|N으로표현|level 3|https://programmers.co.kr/learn/courses/30/lessons/42895|
 |테스트1||||
 |테스트1||||
 |테스트1||||
