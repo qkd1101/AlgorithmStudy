@@ -14,4 +14,4 @@
 
 
 ## 🔗 지난 주 이슈 링크
-> 5주차 : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/1"> ➡️ 2022.02.13. ~ 2022.02.19. </a> 
+> 02월4주차 : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/1"> ➡️ 2022.02.13. ~ 2022.02.19. </a> 
