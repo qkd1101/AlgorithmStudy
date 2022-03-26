@@ -16,7 +16,7 @@
 <summary><h2>🔗 지난 이슈 링크</h2></summary>
 <div markdown="1">
 
-  > **03월 4주차** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/6"> ➡️ 2022.03.20. ~ 2022.03.26. </a>
+  > * **03월 4주차** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/6"> ➡️ 2022.03.20. ~ 2022.03.26. </a>
   >
   > * **03월 3주차** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/5"> ➡️ 2022.03.13. ~ 2022.03.19. </a>
   >
