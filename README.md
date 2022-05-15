@@ -26,6 +26,8 @@
   >
   > * **02월 4주차** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/2"> ➡️ 2022.02.20. ~ 2022.02.26. </a>
   >
-  > * **02월 3주차** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/1"> ➡️ 2022.02.13. ~ 2022.02.19. </a> 
+  > * **02월 3주차** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/1"> ➡️ 2022.02.13. ~ 2022.02.19. 
+  > 
+  > * **03월 5주차 (04월 1주차)** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/7"> ➡️ 2022.03.27. ~ 2022.04.02.
   
 </details>
