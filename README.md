@@ -8,11 +8,11 @@
 > * 커밋시 이슈 레퍼런스 (가독성을 위해 가능한 일주일에 한번만 커밋 🔥)
 > * 최신 버전 ***풀 받고 푸시하셈 !!***   
    
-> 05월 3주차 부터 lv3 위주로 시작합니다.
+> * 05월 3주차 부터 lv3 위주로 시작합니다.
 
 ## 🔗 이번 주 이슈 링크
 
-> **05월 3주차 ** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/8"> ➡️ 2022.05.16. ~ 2022.05.22. </a>
+> * **05월 3주차 ** : <a href = "https://github.com/qkd1101/AlgorithmStudy/issues/8"> ➡️ 2022.05.16. ~ 2022.05.22. </a>
 
 <details>
 <summary><h2>🔗 지난 이슈 링크</h2></summary>
